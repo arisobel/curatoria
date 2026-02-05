@@ -6,7 +6,7 @@
     "dev": "serve public -l 3000",
     "start": "serve public -l 3000"
   },
-  "devDependencies": {
+  "dependencies": {
     "serve": "^14.2.4"
   }
 }
