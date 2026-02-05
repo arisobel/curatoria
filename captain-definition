@@ -1,5 +1,5 @@
 {
   "schemaVersion": 2,
   "templateId": "node/20",
-  "containerHttpPort": 3000
+  "containerHttpPort": 8080
 }

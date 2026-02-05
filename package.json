@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Decision intelligence for art assets",
   "scripts": {
-    "dev": "serve public -l 3000",
-    "start": "serve public -l 3000"
+    "dev": "serve public -l 8080",
+    "start": "serve public -l 8080"
   },
   "dependencies": {
     "serve": "^14.2.4"
